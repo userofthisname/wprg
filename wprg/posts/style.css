@@ -1,0 +1,36 @@
+#main{
+    text-align: center;
+    font-size: 100px;
+}
+.content{
+    text-align: left;
+    height: 500px;
+    width: 1000px;
+}
+
+.formDiv{
+    background-color: forestgreen;
+    text-align: center;
+    margin: 10px 400px 10px 400px;
+}
+.menuBar{
+    height: 30px;
+    background-color: red;
+}
+.menuElement{
+    float: left;
+    height: 28px;
+    margin: 1px 5px 1px 5px;
+    font-size: 26px;
+    pading: 1px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.menuElement:hover{
+    background-color: darkred;
+}
+.uname{
+
+}
